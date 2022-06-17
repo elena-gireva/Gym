@@ -1,0 +1,52 @@
+.position-relative {
+    background-image: url("images/back-view-photo-amazing-young-sports-woman_171337-13944.webp");
+    background-repeat: no-repeat;
+    background-position: right;
+    background-color: rgb(212, 211, 211);
+}
+.table-responsive {
+    background-color: rgb(233, 233, 233);
+}
+
+footer {
+    background-color: rgb(233, 233, 233);
+
+}
+.footertext {
+    font-size: 20px;
+    color: #212529;
+    text-decoration: none;
+
+}
+#advantages{
+    background-color: rgb(233, 233, 233);
+    margin: 0;
+}
+.card-body {
+    background-color: rgb(233, 233, 233);
+}
+.first {
+    background-image: url("images/young-concentrated-athlete-woman-doing-exercises-with-dumbbell_171337-13925.webp");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: rgb(212, 211, 211);
+    width: 100%;
+    height: 8vw;
+}
+.second {
+    background-image: url("images/full-length-side-view-concentrated-sportswoman_171337-14008.webp");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: rgb(212, 211, 211);
+    width: 100%;
+    height: 8vw;
+}
+.third {
+    background-image: url("images/full-length-side-view-young-athlete-woman-doing-squats_171337-14011.webp");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: rgb(212, 211, 211);
+    width: 100%;
+    height: 8vw;
+}
+
